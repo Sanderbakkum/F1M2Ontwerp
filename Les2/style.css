@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+  }
+  img {
+    display: block;
+    width: 100%;
+  }
+body {
+  font-family: sans-serif;
+}
+h1 {
+  color: darkgray
+}
