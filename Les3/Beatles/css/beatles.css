@@ -16,3 +16,7 @@ h3 , p {
     margin: 0;
     padding: 0;
 }
+.naam{
+    border-left: solid 7px red;
+    padding: 9px;
+}
